@@ -2,10 +2,10 @@
 Linux-IPC-Pipes
 
 
-Name: S.Harika
+Name: G.Sindhu Priya Reddy
 
 
-Reg No:212224240155
+Reg No:212224040319
 
 
 # Ex03-Linux IPC - Pipes
